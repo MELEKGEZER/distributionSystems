@@ -26,8 +26,7 @@ Bu proje, Docker ve Docker Compose kullanılarak oluşturulmuş bir dağıtık s
 ### Adımlar
 1. Proje dosyalarını bilgisayarınıza indirin:
    ```bash
-   git clone https://github.com/kullanici-adiniz/repo-adi.git
-   cd repo-adi
+   git clone https://github.com/MELEKGEZER/distributionSystems.git
    ```
 2. Docker Compose ile servisleri başlatın:
    ```bash
