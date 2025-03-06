@@ -43,8 +43,7 @@ Bu proje, Docker ve Docker Compose kullanılarak oluşturulmuş bir dağıtık s
 3. Durduğunuz uygulamayı tekrar başlatın ve diğerini durdurun. Sistemin sorunsuz çalışmaya devam ettiğini kontrol edin.
 
 ## 📹 Tanıtım Videosu
-Projenin nasıl çalıştığını ve failover testini gösteren bir tanıtım videosu hazırladım. Videoyu [buradan]([videolinki.mp4](https://drive.google.com/file/d/1bghRGH01YujZ_mFeJJWY0eH5VB3oH5Ew/view?usp=drive_link)) izleyebilirsiniz.
-
+Projenin nasıl çalıştığını ve failover testini gösteren bir tanıtım videosu hazırladım. Videoyu [buradan](https://drive.google.com/file/d/1bghRGH01YujZ_mFeJJWY0eH5VB3oH5Ew/view?usp=drive_link) izleyebilirsiniz.
 
 **Teşekkürler!** 🎉
 
