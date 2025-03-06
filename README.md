@@ -46,8 +46,5 @@ Bu proje, Docker ve Docker Compose kullanılarak oluşturulmuş bir dağıtık s
 Projenin nasıl çalıştığını ve failover testini gösteren bir tanıtım videosu hazırladım. Videoyu [buradan](videolinki.mp4) izleyebilirsiniz.
 
 
-
----
-
 **Teşekkürler!** 🎉
-```
+
